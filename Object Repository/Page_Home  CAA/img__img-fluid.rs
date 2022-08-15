@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__img-fluid</name>
+   <tag></tag>
+   <elementGuidId>5282a8e7-dca4-4067-98b2-50f74332abdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='user icon']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-fluid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b3fb892a-2d67-432a-99f2-7bfd2faac16d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>0b3abfe5-0a1f-450b-bc54-7a21d6215ef6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/themes/custom/caa/_html/images/icons/user-icon.svg</value>
+      <webElementGuid>3c400c52-742f-4d94-99fc-823fc541de7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>user icon</value>
+      <webElementGuid>7418f5b0-5b45-4a83-ae60-a4ddcb9e31fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid</value>
+      <webElementGuid>888bc782-f3ed-4697-8026-dc449d8350a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js&quot;]/body[1]/div[@class=&quot;dialog-off-canvas-main-canvas&quot;]/header[@class=&quot;page-header clearfix&quot;]/div[@class=&quot;header-top&quot;]/div[@class=&quot;header-top__sm&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;header-top__right&quot;]/a[1]/span[1]/img[@class=&quot;img-fluid&quot;]</value>
+      <webElementGuid>445b6699-d8f0-44ef-b14a-7002644376ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='user icon']</value>
+      <webElementGuid>01ee27ff-abc5-42d8-b49e-3a2c852a7ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/img</value>
+      <webElementGuid>21429781-12e8-41f5-b37c-1df814aeb9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/themes/custom/caa/_html/images/icons/user-icon.svg' and @alt = 'user icon']</value>
+      <webElementGuid>4b29f131-8c40-4a36-9b5c-8f07000c061d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

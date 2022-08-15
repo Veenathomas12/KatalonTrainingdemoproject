@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Scriptmodedemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f46347de-82f6-4c44-aa2c-bd456f469478</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ef83493-4ee2-484e-80fd-aadc4482221e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'29676000436'</defaultValue>
+      <description></description>
+      <id>6ef83493-4ee2-484e-80fd-aadc4482221e</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

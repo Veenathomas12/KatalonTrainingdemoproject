@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MA</name>
+   <tag></tag>
+   <elementGuidId>4ff4ba13-f6a3-4982-8e73-f355afc77fb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='MA'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown-menu__user > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4e5072e3-3f1a-4227-994e-c78cbb5d3d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MA </value>
+      <webElementGuid>147f32bb-187e-434a-8e9d-de5bf74be898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js&quot;]/body[1]/div[@class=&quot;dialog-off-canvas-main-canvas&quot;]/header[@class=&quot;page-header clearfix&quot;]/div[@class=&quot;header-top&quot;]/div[@class=&quot;header-top__sm&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;header-top__right&quot;]/div[@class=&quot;dropdown-menu show&quot;]/div[@class=&quot;dropdown-menu__user&quot;]/a[1]/span[1]</value>
+      <webElementGuid>86d2c127-5ec0-42d6-b8a0-33b6760e462d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c4a2dde4-aee6-46aa-b9ac-56aef6e43d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MA </value>
+      <webElementGuid>35207d0f-9e30-449e-a671-587f0a06a21b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js&quot;]/body[1]/div[@class=&quot;dialog-off-canvas-main-canvas&quot;]/header[@class=&quot;page-header clearfix&quot;]/div[@class=&quot;header-top&quot;]/div[@class=&quot;header-top__sm&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;header-top__right&quot;]/div[@class=&quot;dropdown-menu show&quot;]/div[@class=&quot;dropdown-menu__user&quot;]/a[1]/span[1]</value>
+      <webElementGuid>0881841c-bdeb-4404-b105-ee63d9bf6e11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da92b057-6df7-4f28-a668-499f89614699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> MA </value>
+      <webElementGuid>ee3ebabd-6145-4285-b02c-9fc5c108f473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;languagedropdownmenu&quot;)/span[1]</value>
+      <webElementGuid>e7ec6adc-208b-4f76-9fab-9f72dd4a3ffc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MA'])[1]/following::span[1]</value>
+      <webElementGuid>52bb15ad-3e83-4bdb-be2b-8835e9ddfb5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load More'])[1]/following::span[2]</value>
+      <webElementGuid>7b4dfa61-92f8-4047-affc-4f12f5ad6bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/preceding::span[1]</value>
+      <webElementGuid>cc05aa69-e948-4e77-95b0-59fc2908597c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::span[1]</value>
+      <webElementGuid>47d836d9-dd3d-4aa3-a93b-fe25902351b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a/span</value>
+      <webElementGuid>b0567d16-4950-482b-80bc-2c0e28a5af72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' MA ' or . = ' MA ')]</value>
+      <webElementGuid>46600620-7738-4b21-bd2f-07d2ed28ee81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='languagedropdownmenu']/span</value>
+      <webElementGuid>1250acc3-9e16-4b61-a1b9-aa7921f34f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Load More'])[1]/following::span[1]</value>
+      <webElementGuid>16980dec-1717-4599-a3c1-dc66e0a670d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::span[1]</value>
+      <webElementGuid>a1a14d04-f583-479c-900b-19158821190c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MA'])[2]/preceding::span[1]</value>
+      <webElementGuid>e0c9b3df-f0e0-44c4-b8af-9b63c6cfa900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/preceding::span[2]</value>
+      <webElementGuid>e93d5a69-8622-47d8-9512-ec6480bd6c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MA']/parent::*</value>
+      <webElementGuid>be523d1e-ddc2-4037-883c-6cb18cafbf01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span</value>
+      <webElementGuid>21596deb-c577-43bc-9aad-dd4f0780fdbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
